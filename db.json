@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "name": "To Kill a Mockingbird",
+      "price": 15.99,
+      "quantity": 0,
+      "image": "https://www.iconbooks.com/wp-content/blogs.dir/24/files/2023/12/getimage-1607.jpeg",
+      "id": "2"
+    },
+    {
+      "name": "Anuuip66",
+      "price": 12.49,
+      "quantity": 99,
+      "image": "https://live.staticflickr.com/65535/53532628116_a95fddcdc5_w.jpg",
+      "id": "3"
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "price": 14.99,
+      "quantity": 25,
+      "image": "https://live.staticflickr.com/65535/53531669072_ff5ceabbef_w.jpg",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Harry Potter",
+      "price": 24.99,
+      "quantity": 60,
+      "image": "https://www.iconbooks.com/wp-content/blogs.dir/24/files/2023/12/getimage-1609.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Pride and Prejudice",
+      "price": 18.75,
+      "quantity": 35,
+      "image": "https://live.staticflickr.com/5483/12576412954_b6e8ab4858_m.jpg"
+    },
+    {
+      "id": "7",
+      "name": "The Hobbit",
+      "price": 22.5,
+      "quantity": 20,
+      "image": "https://live.staticflickr.com/6203/6103649845_987d2f51d1_m.jpg"
+    },
+    {
+      "name": "The Lord of the Rings",
+      "price": 29.99,
+      "quantity": 1,
+      "image": "https://live.staticflickr.com/7200/6796556146_9b7c873cf4_m.jpg",
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "name": "The Da Vinci Code",
+      "price": 17.25,
+      "quantity": 45,
+      "image": "https://live.staticflickr.com/8170/8029308023_0847ec0867_m.jpg"
+    },
+    {
+      "id": "aa38",
+      "name": "into the dark",
+      "price": 900,
+      "quantity": 77,
+      "image": "https://www.iconbooks.com/wp-content/blogs.dir/24/files/2023/12/getimage-1614.jpeg"
+    }
+  ]
+}
